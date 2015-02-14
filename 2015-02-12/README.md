@@ -7,16 +7,16 @@ Hotel Urbano
 
 Presentes
 ---------
-Gustavo Barbosa
-Walmyr Carvalho
-Douglas Fischer
-Bruno Valente
-Fabio Campos
-Joao Pedro Wieland
-Eduardo Augusto Wieland
-Gustavo Azevedo
-Afonso Junior
-Romilson Nunes
+- Gustavo Barbosa
+- Walmyr Carvalho
+- Douglas Fischer
+- Bruno Valente
+- Fabio Campos
+- Joao Pedro Wieland
+- Eduardo Augusto Wieland
+- Gustavo Azevedo
+- Afonso Junior
+- Romilson Nunes
 
 Prós
 -----
